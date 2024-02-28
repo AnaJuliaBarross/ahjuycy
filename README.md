@@ -97,7 +97,7 @@
   **ALGUMAS ESTATÍSTICAS**
   
  <div>
-  <a href="https://github.com/JovencioNeto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JovencioNeto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovencioNeto&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/AnaJuliaBarross">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaJuliaBarross&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaBarross&layout=compact&langs_count=7&theme=vue-dark"/>
  </div>

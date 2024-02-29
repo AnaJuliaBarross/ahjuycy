@@ -1,27 +1,73 @@
-#
+# Bem-vindo ao meu perfil, sou a Julia Barros! ⍢
 
-**EXPERIÊNCIAS...**<br>
-<img align="center" alt="AnaJulia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="AnaJulia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AnaJulia-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
+### Atualmente curso Desenvolvimento de Sistemas, e pretendo um dia ser cientista da computação.
 
-**HOBBIES...**<br>
+Gosto de ouvir música alto, criar cénarios falsos(muitas vezes de lutas épicas), ficar na escola(laboratório) e ficar com meu namorado.😎✨
 
-**OUTRAS INFORMAÇÕES...**<br>
+# EXPERIÊNCIAS...
 
-➤Ainda em construção...<br>
+Em busca de novas experiências
 
+<table border="2">
 
-**STATUS E REDES SOCIAIS...**<br>
+  <tr>
+    <th>Linguagens utilizadas</th>
+    <th>IDE's</th>
+  </tr>
 
-➤ Ainda preciso atualizar minhas redes, mas algumas preciso até de idade pra criar (porque Linkedin?)<br>
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </td> 
+    <td>
+      <img align="center" alt="Jovencio-vscode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+    </td>   
+  </tr>
+  
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </td> 
+  </tr>
 
-**CURSO TÉCNICO...**<br>
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
+    </td> 
+  </tr>
+
+  <tr>
+    <td>
+      <img align="center" alt="Jovencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </td> 
+  </tr>
+  
+</table>
+  
+# HOBBIES...
+
+➤ Ouvir música;  <br>
+➤ Não ter nada fazer; <br>
+➤ Fazer musse de maracujá; <br>
+➤ Cuidar de quem eu amo; <br>
+➤ Jogar. <br>
+
+# STATUS E REDES SOCIAIS... 
+
+<br>
+
+<div style="display:inline_block">
+  <a href="https://www.instagram.com/_ahjuycy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+# CURSO TÉCNICO...
 
  <table border="2">
-   
-  <th>ANÁLISE E DESENVOLIMENTO DE SISTEMAS</th>
-
+   <tr>
+  <th>Análise e Desenvolvimento de Sistemas</th>
+  </tr>
   <tr>
   <td>LÓGICA DE PROGRAMAÇÃO ✔ </td>
   </tr>
@@ -94,10 +140,13 @@
 
   </table>
 
-  **ALGUMAS ESTATÍSTICAS**
+  # GitHub Stats📈🤖
   
  <div>
+   
   <a href="https://github.com/AnaJuliaBarross">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaJuliaBarross&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaBarross&layout=compact&langs_count=7&theme=vue-dark"/>
+    <img heigth="120em"  width="42%" src="https://github-readme-stats.vercel.app/api?username=AnaJuliaBarross&show_icons=true&theme=shadow_red"/>
+    <img heigth="120em"  width="44.5%" src="https://github-readme-streak-stats.herokuapp.com?user=AnaJuliaBarross&hide_border=falso&theme=shadow_red"/>
+    <img heigth="120em"  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaBarross&size_weight=0.5&count_weight=0.5&theme=shadow_red"/>
+    
  </div>
